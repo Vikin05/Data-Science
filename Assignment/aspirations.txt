@@ -1,0 +1,3 @@
+Aspirations
+I want to be a DATA SCIENTIST.
+This file is writen using writelines() method
